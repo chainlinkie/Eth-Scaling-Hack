@@ -4,9 +4,9 @@
 
 # Bridge Troll
 
-Don’t let the first experience on an L2  be a bad one - use Bridge Troll to fund your 1st gas transaction on your Layer 2 account. 
+Don’t let your first cross-chain experience be a bad one - use Bridge Troll to fund your 1st gas transaction on your Layer 2 or cross chain account. 
 
-Our goal is to help inspire people to explore the fun and cheap L2 solutions without being discouraged by the initial bridge over. 
+Our goal is to help inspire people to explore the fun and cheap scaling solutions without being discouraged by the initial bridge over. 
 Pay the toll troll once and cross that bridge to freedom! 
 
 
